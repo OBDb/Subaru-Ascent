@@ -1,0 +1,37 @@
+command_id: 7E0.7E8.2210E5
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 7E8056210E5C555
+  expected_values:
+    SUBARU_ODO: 101034
+- response: 7E8056210E5C556
+  expected_values:
+    SUBARU_ODO: 101036
+- response: 7E8056210E5C557
+  expected_values:
+    SUBARU_ODO: 101038
+- response: 7E8056210E5C558
+  expected_values:
+    SUBARU_ODO: 101040
+- response: 7E8056210E5C559
+  expected_values:
+    SUBARU_ODO: 101042
+- response: 7E8056210E5C565
+  expected_values:
+    SUBARU_ODO: 101066
+- response: 7E8056210E5C566
+  expected_values:
+    SUBARU_ODO: 101068
+- response: 7E8056210E5C567
+  expected_values:
+    SUBARU_ODO: 101070
+- response: 7E8056210E5C568
+  expected_values:
+    SUBARU_ODO: 101072
+- response: 7E8056210E5C569
+  expected_values:
+    SUBARU_ODO: 101074
+- response: 7E8056210E5C56A
+  expected_values:
+    SUBARU_ODO: 101076
