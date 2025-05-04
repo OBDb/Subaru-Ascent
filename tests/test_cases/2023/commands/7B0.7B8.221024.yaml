@@ -1,0 +1,76 @@
+command_id: 7B0.7B8.221024
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 7B8056210240000
+  expected_values:
+    SUBARU_FR_VSS: 0
+- response: 7B805621024006A
+  expected_values:
+    SUBARU_FR_VSS: 106
+- response: 7B80562102400A7
+  expected_values:
+    SUBARU_FR_VSS: 167
+- response: 7B80562102400C5
+  expected_values:
+    SUBARU_FR_VSS: 197
+- response: 7B8056210240131
+  expected_values:
+    SUBARU_FR_VSS: 305
+- response: 7B805621024013B
+  expected_values:
+    SUBARU_FR_VSS: 315
+- response: 7B805621024014F
+  expected_values:
+    SUBARU_FR_VSS: 335
+- response: 7B8056210240226
+  expected_values:
+    SUBARU_FR_VSS: 550
+- response: 7B8056210240235
+  expected_values:
+    SUBARU_FR_VSS: 565
+- response: 7B80562102402A2
+  expected_values:
+    SUBARU_FR_VSS: 674
+- response: 7B8056210240367
+  expected_values:
+    SUBARU_FR_VSS: 871
+- response: 7B8056210240552
+  expected_values:
+    SUBARU_FR_VSS: 1362
+- response: 7B8056210240588
+  expected_values:
+    SUBARU_FR_VSS: 1416
+- response: 7B8056210240623
+  expected_values:
+    SUBARU_FR_VSS: 1571
+- response: 7B805621024068D
+  expected_values:
+    SUBARU_FR_VSS: 1677
+- response: 7B80562102406A5
+  expected_values:
+    SUBARU_FR_VSS: 1701
+- response: 7B8056210240749
+  expected_values:
+    SUBARU_FR_VSS: 1865
+- response: 7B80562102407BE
+  expected_values:
+    SUBARU_FR_VSS: 1982
+- response: 7B80562102407D4
+  expected_values:
+    SUBARU_FR_VSS: 2004
+- response: 7B80562102407DC
+  expected_values:
+    SUBARU_FR_VSS: 2012
+- response: 7B8056210240800
+  expected_values:
+    SUBARU_FR_VSS: 2048
+- response: 7B8056210240801
+  expected_values:
+    SUBARU_FR_VSS: 2049
+- response: 7B8056210240811
+  expected_values:
+    SUBARU_FR_VSS: 2065
+- response: 7B805621024088F
+  expected_values:
+    SUBARU_FR_VSS: 2191
