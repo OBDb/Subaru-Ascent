@@ -5,9 +5,15 @@ test_cases:
 - response: 7B8056210250000
   expected_values:
     SUBARU_FL_VSS: 0
+- response: 7B805621025000D
+  expected_values:
+    SUBARU_FL_VSS: 13
 - response: 7B8056210250078
   expected_values:
     SUBARU_FL_VSS: 120
+- response: 7B8056210250085
+  expected_values:
+    SUBARU_FL_VSS: 133
 - response: 7B80562102500B4
   expected_values:
     SUBARU_FL_VSS: 180
@@ -17,33 +23,90 @@ test_cases:
 - response: 7B8056210250130
   expected_values:
     SUBARU_FL_VSS: 304
+- response: 7B8056210250135
+  expected_values:
+    SUBARU_FL_VSS: 309
 - response: 7B8056210250137
   expected_values:
     SUBARU_FL_VSS: 311
 - response: 7B8056210250139
   expected_values:
     SUBARU_FL_VSS: 313
+- response: 7B8056210250141
+  expected_values:
+    SUBARU_FL_VSS: 321
+- response: 7B8056210250173
+  expected_values:
+    SUBARU_FL_VSS: 371
+- response: 7B805621025019F
+  expected_values:
+    SUBARU_FL_VSS: 415
 - response: 7B805621025021D
   expected_values:
     SUBARU_FL_VSS: 541
 - response: 7B8056210250234
   expected_values:
     SUBARU_FL_VSS: 564
+- response: 7B8056210250277
+  expected_values:
+    SUBARU_FL_VSS: 631
 - response: 7B80562102502A3
   expected_values:
     SUBARU_FL_VSS: 675
+- response: 7B80562102502AE
+  expected_values:
+    SUBARU_FL_VSS: 686
+- response: 7B80562102502BA
+  expected_values:
+    SUBARU_FL_VSS: 698
+- response: 7B80562102502C5
+  expected_values:
+    SUBARU_FL_VSS: 709
+- response: 7B805621025036E
+  expected_values:
+    SUBARU_FL_VSS: 878
 - response: 7B8056210250383
   expected_values:
     SUBARU_FL_VSS: 899
+- response: 7B80562102503BD
+  expected_values:
+    SUBARU_FL_VSS: 957
+- response: 7B80562102503D3
+  expected_values:
+    SUBARU_FL_VSS: 979
+- response: 7B805621025040C
+  expected_values:
+    SUBARU_FL_VSS: 1036
+- response: 7B805621025042F
+  expected_values:
+    SUBARU_FL_VSS: 1071
+- response: 7B8056210250468
+  expected_values:
+    SUBARU_FL_VSS: 1128
+- response: 7B805621025046B
+  expected_values:
+    SUBARU_FL_VSS: 1131
+- response: 7B8056210250491
+  expected_values:
+    SUBARU_FL_VSS: 1169
+- response: 7B80562102504D8
+  expected_values:
+    SUBARU_FL_VSS: 1240
 - response: 7B8056210250542
   expected_values:
     SUBARU_FL_VSS: 1346
 - response: 7B8056210250598
   expected_values:
     SUBARU_FL_VSS: 1432
+- response: 7B80562102505C7
+  expected_values:
+    SUBARU_FL_VSS: 1479
 - response: 7B805621025061E
   expected_values:
     SUBARU_FL_VSS: 1566
+- response: 7B8056210250627
+  expected_values:
+    SUBARU_FL_VSS: 1575
 - response: 7B8056210250691
   expected_values:
     SUBARU_FL_VSS: 1681

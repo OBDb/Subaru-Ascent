@@ -35,3 +35,138 @@ test_cases:
 - response: 7E8056210E5C56A
   expected_values:
     SUBARU_ODO: 101076
+- response: 7E8056210E5C580
+  expected_values:
+    SUBARU_ODO: 101120
+- response: 7E8056210E5C581
+  expected_values:
+    SUBARU_ODO: 101122
+- response: 7E8056210E5C582
+  expected_values:
+    SUBARU_ODO: 101124
+- response: 7E8056210E5C583
+  expected_values:
+    SUBARU_ODO: 101126
+- response: 7E8056210E5C584
+  expected_values:
+    SUBARU_ODO: 101128
+- response: 7E8056210E5C585
+  expected_values:
+    SUBARU_ODO: 101130
+- response: 7E8056210E5C586
+  expected_values:
+    SUBARU_ODO: 101132
+- response: 7E8056210E5C587
+  expected_values:
+    SUBARU_ODO: 101134
+- response: 7E8056210E5C588
+  expected_values:
+    SUBARU_ODO: 101136
+- response: 7E8056210E5C589
+  expected_values:
+    SUBARU_ODO: 101138
+- response: 7E8056210E5C58A
+  expected_values:
+    SUBARU_ODO: 101140
+- response: 7E8056210E5C58B
+  expected_values:
+    SUBARU_ODO: 101142
+- response: 7E8056210E5C58C
+  expected_values:
+    SUBARU_ODO: 101144
+- response: 7E8056210E5C58D
+  expected_values:
+    SUBARU_ODO: 101146
+- response: 7E8056210E5C58E
+  expected_values:
+    SUBARU_ODO: 101148
+- response: 7E8056210E5C58F
+  expected_values:
+    SUBARU_ODO: 101150
+- response: 7E8056210E5C590
+  expected_values:
+    SUBARU_ODO: 101152
+- response: 7E8056210E5C591
+  expected_values:
+    SUBARU_ODO: 101154
+- response: 7E8056210E5C592
+  expected_values:
+    SUBARU_ODO: 101156
+- response: 7E8056210E5C593
+  expected_values:
+    SUBARU_ODO: 101158
+- response: 7E8056210E5C594
+  expected_values:
+    SUBARU_ODO: 101160
+- response: 7E8056210E5C595
+  expected_values:
+    SUBARU_ODO: 101162
+- response: 7E8056210E5C596
+  expected_values:
+    SUBARU_ODO: 101164
+- response: 7E8056210E5C597
+  expected_values:
+    SUBARU_ODO: 101166
+- response: 7E8056210E5C598
+  expected_values:
+    SUBARU_ODO: 101168
+- response: 7E8056210E5C599
+  expected_values:
+    SUBARU_ODO: 101170
+- response: 7E8056210E5C59A
+  expected_values:
+    SUBARU_ODO: 101172
+- response: 7E8056210E5C59B
+  expected_values:
+    SUBARU_ODO: 101174
+- response: 7E8056210E5C59C
+  expected_values:
+    SUBARU_ODO: 101176
+- response: 7E8056210E5C59D
+  expected_values:
+    SUBARU_ODO: 101178
+- response: 7E8056210E5C59E
+  expected_values:
+    SUBARU_ODO: 101180
+- response: 7E8056210E5C59F
+  expected_values:
+    SUBARU_ODO: 101182
+- response: 7E8056210E5C5A0
+  expected_values:
+    SUBARU_ODO: 101184
+- response: 7E8056210E5C5A1
+  expected_values:
+    SUBARU_ODO: 101186
+- response: 7E8056210E5C5A2
+  expected_values:
+    SUBARU_ODO: 101188
+- response: 7E8056210E5C5A3
+  expected_values:
+    SUBARU_ODO: 101190
+- response: 7E8056210E5C5A4
+  expected_values:
+    SUBARU_ODO: 101192
+- response: 7E8056210E5C5A5
+  expected_values:
+    SUBARU_ODO: 101194
+- response: 7E8056210E5C5A6
+  expected_values:
+    SUBARU_ODO: 101196
+- response: 7E8056210E5C5A7
+  expected_values:
+    SUBARU_ODO: 101198
+- response: 7E8056210E5C5A8
+  expected_values:
+    SUBARU_ODO: 101200
+- response: 7E8056210E5C5A9
+  expected_values:
+    SUBARU_ODO: 101202
+- response: 7E8056210E5C5AA
+  expected_values:
+    SUBARU_ODO: 101204
+- response: 7E8056210E5C5AB
+  expected_values:
+    SUBARU_ODO: 101206
+- response: 7E8056210E5C5AC
+  expected_values:
+    SUBARU_ODO: 101208
