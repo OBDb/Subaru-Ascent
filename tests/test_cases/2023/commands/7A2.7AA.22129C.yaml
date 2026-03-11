@@ -4,6 +4,9 @@ test_cases:
     SUBARU_ENGINE_STARTING_TIME: 580
   response: 7AA0562129C003A
 - expected_values:
+    SUBARU_ENGINE_STARTING_TIME: 650
+  response: 7AA0562129C0041
+- expected_values:
     SUBARU_ENGINE_STARTING_TIME: 680
   response: 7AA0562129C0044
 - expected_values:
