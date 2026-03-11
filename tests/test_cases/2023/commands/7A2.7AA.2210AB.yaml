@@ -1,0 +1,20 @@
+command_id: 7A2.7AA.2210AB
+test_cases:
+- expected_values:
+    SUBARU_RADIATOR_FAN: 35
+  response: 7AA046210AB23
+- expected_values:
+    SUBARU_RADIATOR_FAN: 44
+  response: 7AA046210AB2C
+- expected_values:
+    SUBARU_RADIATOR_FAN: 46
+  response: 7AA046210AB2E
+- expected_values:
+    SUBARU_RADIATOR_FAN: 47
+  response: 7AA046210AB2F
+- expected_values:
+    SUBARU_RADIATOR_FAN: 48
+  response: 7AA046210AB30
+- expected_values:
+    SUBARU_RADIATOR_FAN: 50
+  response: 7AA046210AB32
