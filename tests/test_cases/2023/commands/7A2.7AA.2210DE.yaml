@@ -1,32 +1,8 @@
 command_id: 7A2.7AA.2210DE
 test_cases:
 - expected_values:
-    SUBARU_THROTTLE_MOTOR_DUTY: -23.952
-  response: 7AA046210DE61
+    SUBARU_THROTTLE_MOTOR_DUTY: -27.872
+  response: 7AA046210DE5C
 - expected_values:
-    SUBARU_THROTTLE_MOTOR_DUTY: -23.168
-  response: 7AA046210DE62
-- expected_values:
-    SUBARU_THROTTLE_MOTOR_DUTY: -22.384
-  response: 7AA046210DE63
-- expected_values:
-    SUBARU_THROTTLE_MOTOR_DUTY: -21.6
-  response: 7AA046210DE64
-- expected_values:
-    SUBARU_THROTTLE_MOTOR_DUTY: -20.816
-  response: 7AA046210DE65
-- expected_values:
-    SUBARU_THROTTLE_MOTOR_DUTY: -20.032
-  response: 7AA046210DE66
-- expected_values:
-    SUBARU_THROTTLE_MOTOR_DUTY: -19.248
-  response: 7AA046210DE67
-- expected_values:
-    SUBARU_THROTTLE_MOTOR_DUTY: -16.896
-  response: 7AA046210DE6A
-- expected_values:
-    SUBARU_THROTTLE_MOTOR_DUTY: -15.328
-  response: 7AA046210DE6C
-- expected_values:
-    SUBARU_THROTTLE_MOTOR_DUTY: -12.192
-  response: 7AA046210DE70
+    SUBARU_THROTTLE_MOTOR_DUTY: 45.04
+  response: 7AA046210DEB9

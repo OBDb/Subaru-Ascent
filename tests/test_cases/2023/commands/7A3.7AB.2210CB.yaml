@@ -1,8 +1,8 @@
 command_id: 7A3.7AB.2210CB
 test_cases:
 - expected_values:
-    SUBARU_TURBINE_SPEED: 256
-  response: 7AB046210CB08
+    SUBARU_TURBINE_SPEED: 0
+  response: 7AB046210CB00
 - expected_values:
-    SUBARU_TURBINE_SPEED: 832
-  response: 7AB046210CB1A
+    SUBARU_TURBINE_SPEED: 2080
+  response: 7AB046210CB41
