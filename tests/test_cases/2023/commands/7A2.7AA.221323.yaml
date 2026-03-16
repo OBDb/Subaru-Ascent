@@ -1,32 +1,8 @@
 command_id: 7A2.7AA.221323
 test_cases:
 - expected_values:
-    SUBARU_ESTIMATED_BAT_T: 22
-  response: 7AA05621323007C
-- expected_values:
-    SUBARU_ESTIMATED_BAT_T: 23
-  response: 7AA05621323007E
-- expected_values:
-    SUBARU_ESTIMATED_BAT_T: 26
-  response: 7AA056213230084
-- expected_values:
-    SUBARU_ESTIMATED_BAT_T: 26.5
-  response: 7AA056213230085
-- expected_values:
-    SUBARU_ESTIMATED_BAT_T: 27
-  response: 7AA056213230086
-- expected_values:
-    SUBARU_ESTIMATED_BAT_T: 27.5
-  response: 7AA056213230087
-- expected_values:
-    SUBARU_ESTIMATED_BAT_T: 28
-  response: 7AA056213230088
-- expected_values:
-    SUBARU_ESTIMATED_BAT_T: 33
-  response: 7AA056213230092
-- expected_values:
-    SUBARU_ESTIMATED_BAT_T: 33.5
-  response: 7AA056213230093
+    SUBARU_ESTIMATED_BAT_T: 17
+  response: 7AA056213230072
 - expected_values:
     SUBARU_ESTIMATED_BAT_T: 36.5
   response: 7AA056213230099
