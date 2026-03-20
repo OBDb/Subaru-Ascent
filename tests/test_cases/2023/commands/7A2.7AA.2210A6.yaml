@@ -4,5 +4,5 @@ test_cases:
     SUBARU_ACC_PEDAL_ANGLE: 0
   response: 7AA046210A600
 - expected_values:
-    SUBARU_ACC_PEDAL_ANGLE: 42.7451
-  response: 7AA046210A66D
+    SUBARU_ACC_PEDAL_ANGLE: 54.90196
+  response: 7AA046210A68C
