@@ -1,0 +1,23 @@
+command_id: 7A2.7AA.2210A6
+test_cases:
+- expected_values:
+    SUBARU_ACC_PEDAL_ANGLE: 0
+  response: 7AA046210A600
+- expected_values:
+    SUBARU_ACC_PEDAL_ANGLE: 8.23529
+  response: 7AA046210A615
+- expected_values:
+    SUBARU_ACC_PEDAL_ANGLE: 9.41176
+  response: 7AA046210A618
+- expected_values:
+    SUBARU_ACC_PEDAL_ANGLE: 14.90196
+  response: 7AA046210A626
+- expected_values:
+    SUBARU_ACC_PEDAL_ANGLE: 16.07843
+  response: 7AA046210A629
+- expected_values:
+    SUBARU_ACC_PEDAL_ANGLE: 20.39216
+  response: 7AA046210A634
+- expected_values:
+    SUBARU_ACC_PEDAL_ANGLE: 27.05882
+  response: 7AA046210A645

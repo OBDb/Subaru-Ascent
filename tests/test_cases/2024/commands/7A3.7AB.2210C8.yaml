@@ -1,0 +1,20 @@
+command_id: 7A3.7AB.2210C8
+test_cases:
+- expected_values:
+    SUBARU_LOCK_UP_DUTY_RATIO: 0
+  response: 7AB046210C800
+- expected_values:
+    SUBARU_LOCK_UP_DUTY_RATIO: 19
+  response: 7AB046210C826
+- expected_values:
+    SUBARU_LOCK_UP_DUTY_RATIO: 35
+  response: 7AB046210C846
+- expected_values:
+    SUBARU_LOCK_UP_DUTY_RATIO: 48
+  response: 7AB046210C860
+- expected_values:
+    SUBARU_LOCK_UP_DUTY_RATIO: 56.5
+  response: 7AB046210C871
+- expected_values:
+    SUBARU_LOCK_UP_DUTY_RATIO: 96
+  response: 7AB046210C8C0
