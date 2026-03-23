@@ -1,0 +1,14 @@
+command_id: 7A3.7AB.22113E
+test_cases:
+- expected_values:
+    SUBARU_ACTUAL_GEAR_RATIO: 0.39844
+  response: 7AB0562113E0066
+- expected_values:
+    SUBARU_ACTUAL_GEAR_RATIO: 0.85548
+  response: 7AB0562113E00DB
+- expected_values:
+    SUBARU_ACTUAL_GEAR_RATIO: 1.01564
+  response: 7AB0562113E0104
+- expected_values:
+    SUBARU_ACTUAL_GEAR_RATIO: 2.16019
+  response: 7AB0562113E0229

@@ -1,0 +1,29 @@
+command_id: 7A2.7AA.2210BE
+test_cases:
+- expected_values:
+    SUBARU_A_F_SENSOR_1: 0.90525
+  response: 7AA046210BE74
+- expected_values:
+    SUBARU_A_F_SENSOR_1: 0.92086
+  response: 7AA046210BE76
+- expected_values:
+    SUBARU_A_F_SENSOR_1: 0.94427
+  response: 7AA046210BE79
+- expected_values:
+    SUBARU_A_F_SENSOR_1: 0.95988
+  response: 7AA046210BE7B
+- expected_values:
+    SUBARU_A_F_SENSOR_1: 0.96769
+  response: 7AA046210BE7C
+- expected_values:
+    SUBARU_A_F_SENSOR_1: 0.97549
+  response: 7AA046210BE7D
+- expected_values:
+    SUBARU_A_F_SENSOR_1: 0.98329
+  response: 7AA046210BE7E
+- expected_values:
+    SUBARU_A_F_SENSOR_1: 1.00671
+  response: 7AA046210BE81
+- expected_values:
+    SUBARU_A_F_SENSOR_1: 1.48275
+  response: 7AA046210BEBE

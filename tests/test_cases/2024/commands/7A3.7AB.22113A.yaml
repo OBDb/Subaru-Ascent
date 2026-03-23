@@ -1,0 +1,11 @@
+command_id: 7A3.7AB.22113A
+test_cases:
+- expected_values:
+    SUBARU_ACTUAL_SECONDARY_PRESSURE: 0.50352
+  response: 7AB0562113A0509
+- expected_values:
+    SUBARU_ACTUAL_SECONDARY_PRESSURE: 0.89689
+  response: 7AB0562113A08F8
+- expected_values:
+    SUBARU_ACTUAL_SECONDARY_PRESSURE: 1.6844
+  response: 7AB0562113A10D8
