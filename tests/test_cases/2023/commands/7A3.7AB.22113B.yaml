@@ -1,8 +1,8 @@
 command_id: 7A3.7AB.22113B
 test_cases:
 - expected_values:
-    SUBARU_SECONDARY_SET_CURRENT: 380
-  response: 7AB0562113B017C
+    SUBARU_SECONDARY_SET_CURRENT: 349
+  response: 7AB0562113B015D
 - expected_values:
     SUBARU_SECONDARY_SET_CURRENT: 767
   response: 7AB0562113B02FF
