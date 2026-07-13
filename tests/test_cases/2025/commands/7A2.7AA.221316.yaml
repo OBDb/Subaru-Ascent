@@ -1,8 +1,14 @@
 command_id: 7A2.7AA.221316
 test_cases:
 - expected_values:
-    SUBARU_MONITOR_3: 878.75
-  response: 7AA056213160DBB
+    SUBARU_MONITOR_3: 801.25
+  response: 7AA056213160C85
+- expected_values:
+    SUBARU_MONITOR_3: 817.25
+  response: 7AA056213160CC5
 - expected_values:
     SUBARU_MONITOR_3: 1101
   response: 7AA056213161134
+- expected_values:
+    SUBARU_MONITOR_3: 1614.75
+  response: 7AA05621316193B

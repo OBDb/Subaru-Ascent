@@ -4,6 +4,9 @@ test_cases:
     SUBARU_ACTUAL_PRIMARY_PRESSURE: 0.29297
   response: 7AB0562114102EE
 - expected_values:
+    SUBARU_ACTUAL_PRIMARY_PRESSURE: 0.30196
+  response: 7AB056211410305
+- expected_values:
     SUBARU_ACTUAL_PRIMARY_PRESSURE: 0.31094
   response: 7AB05621141031C
 - expected_values:
