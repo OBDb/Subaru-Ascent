@@ -10,5 +10,5 @@ test_cases:
     SUBARU_ODO: 44544
   response: 7E8056210E55700
 - expected_values:
-    SUBARU_ODO: 49716
-  response: 7E8056210E5611A
+    SUBARU_ODO: 50270
+  response: 7E8056210E5622F
