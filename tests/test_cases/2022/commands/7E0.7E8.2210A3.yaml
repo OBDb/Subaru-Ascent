@@ -1,6 +1,9 @@
 command_id: 7E0.7E8.2210A3
 test_cases:
 - expected_values:
+    SUBARU_FUEL_INJ_1_WIDTH: 1.024
+  response: 7E8046210A304
+- expected_values:
     SUBARU_FUEL_INJ_1_WIDTH: 1.536
   response: 7E8046210A306
 - expected_values:
