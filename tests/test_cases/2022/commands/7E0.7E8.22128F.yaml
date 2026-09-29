@@ -1,6 +1,12 @@
 command_id: 7E0.7E8.22128F
 test_cases:
 - expected_values:
+    SUBARU_INT_VVT_ADVANCE_TGT: -17
+  response: 7E80462128F21
+- expected_values:
+    SUBARU_INT_VVT_ADVANCE_TGT: -15
+  response: 7E80462128F23
+- expected_values:
     SUBARU_INT_VVT_ADVANCE_TGT: 0
   response: 7E80462128F32
 - expected_values:

@@ -12,3 +12,9 @@ test_cases:
 - expected_values:
     SUBARU_EXH_VVT_RETARD_ANG: 20
   response: 7E8046210EC46
+- expected_values:
+    SUBARU_EXH_VVT_RETARD_ANG: 25
+  response: 7E8046210EC4B
+- expected_values:
+    SUBARU_EXH_VVT_RETARD_ANG: 30
+  response: 7E8046210EC50
