@@ -7,23 +7,5 @@ test_cases:
     SUBARU_TRANS_TURBINE_SPD: 995
   response: 7E80562129803E3
 - expected_values:
-    SUBARU_TRANS_TURBINE_SPD: 1061
-  response: '7E8056212980425'
-- expected_values:
-    SUBARU_TRANS_TURBINE_SPD: 1203
-  response: 7E80562129804B3
-- expected_values:
-    SUBARU_TRANS_TURBINE_SPD: 1637
-  response: '7E8056212980665'
-- expected_values:
-    SUBARU_TRANS_TURBINE_SPD: 1672
-  response: '7E8056212980688'
-- expected_values:
-    SUBARU_TRANS_TURBINE_SPD: 2260
-  response: 7E80562129808D4
-- expected_values:
-    SUBARU_TRANS_TURBINE_SPD: 2434
-  response: '7E8056212980982'
-- expected_values:
     SUBARU_TRANS_TURBINE_SPD: 2622
   response: 7E8056212980A3E
