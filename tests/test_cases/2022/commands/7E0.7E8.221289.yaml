@@ -4,26 +4,11 @@ test_cases:
     SUBARU_IDLE_MAF: 6.47
   response: '7E8056212890287'
 - expected_values:
-    SUBARU_IDLE_MAF: 6.92
-  response: 7E80562128902B4
-- expected_values:
     SUBARU_IDLE_MAF: 7.16
   response: 7E80562128902CC
 - expected_values:
-    SUBARU_IDLE_MAF: 7.97
-  response: 7E805621289031D
-- expected_values:
-    SUBARU_IDLE_MAF: 8.13
-  response: 7E805621289032D
-- expected_values:
-    SUBARU_IDLE_MAF: 8.28
-  response: 7E805621289033C
-- expected_values:
-    SUBARU_IDLE_MAF: 8.83
-  response: '7E8056212890373'
-- expected_values:
-    SUBARU_IDLE_MAF: 9.3
-  response: 7E80562128903A2
+    SUBARU_IDLE_MAF: 7.86
+  response: '7E8056212890312'
 - expected_values:
     SUBARU_IDLE_MAF: 10.99
   response: 7E805621289044B

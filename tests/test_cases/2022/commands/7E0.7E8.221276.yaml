@@ -10,6 +10,9 @@ test_cases:
     SUBARU_SUB_THROTTLE_SENS: 0.76
   response: '7E80462127626'
 - expected_values:
+    SUBARU_SUB_THROTTLE_SENS: 0.94
+  response: 7E8046212762F
+- expected_values:
     SUBARU_SUB_THROTTLE_SENS: 1.12
   response: '7E80462127638'
 - expected_values:
