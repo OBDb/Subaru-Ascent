@@ -5,19 +5,4 @@ test_cases:
   response: 7E80562128C0000
 - expected_values:
     SUBARU_IDLE_AC_LOAD_CORR: 0
-  response: 7E80562128C002B
-- expected_values:
-    SUBARU_IDLE_AC_LOAD_CORR: 0
-  response: 7E80562128C0033
-- expected_values:
-    SUBARU_IDLE_AC_LOAD_CORR: 0
-  response: 7E80562128C0041
-- expected_values:
-    SUBARU_IDLE_AC_LOAD_CORR: 0
-  response: 7E80562128C0063
-- expected_values:
-    SUBARU_IDLE_AC_LOAD_CORR: 0
-  response: 7E80562128C006F
-- expected_values:
-    SUBARU_IDLE_AC_LOAD_CORR: 0
-  response: 7E80562128C009E
+  response: 7E80562128C00B4

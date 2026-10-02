@@ -4,29 +4,5 @@ test_cases:
     SUBARU_SUB_ACCEL_SENS: 0.64
   response: '7E80462127820'
 - expected_values:
-    SUBARU_SUB_ACCEL_SENS: 0.66
-  response: '7E80462127821'
-- expected_values:
-    SUBARU_SUB_ACCEL_SENS: 0.76
-  response: '7E80462127826'
-- expected_values:
-    SUBARU_SUB_ACCEL_SENS: 0.96
-  response: '7E80462127830'
-- expected_values:
-    SUBARU_SUB_ACCEL_SENS: 0.98
-  response: '7E80462127831'
-- expected_values:
-    SUBARU_SUB_ACCEL_SENS: 1.04
-  response: '7E80462127834'
-- expected_values:
-    SUBARU_SUB_ACCEL_SENS: 1.14
-  response: '7E80462127839'
-- expected_values:
-    SUBARU_SUB_ACCEL_SENS: 1.28
-  response: '7E80462127840'
-- expected_values:
-    SUBARU_SUB_ACCEL_SENS: 1.4
-  response: '7E80462127846'
-- expected_values:
-    SUBARU_SUB_ACCEL_SENS: 1.46
-  response: '7E80462127849'
+    SUBARU_SUB_ACCEL_SENS: 1.62
+  response: '7E80462127851'

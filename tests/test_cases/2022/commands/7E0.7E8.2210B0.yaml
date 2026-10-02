@@ -7,6 +7,9 @@ test_cases:
     SUBARU_TUMBLE_GEN_VLV_POS_SENS: 1.08
   response: 7E8046210B036
 - expected_values:
+    SUBARU_TUMBLE_GEN_VLV_POS_SENS: 1.12
+  response: 7E8046210B038
+- expected_values:
     SUBARU_TUMBLE_GEN_VLV_POS_SENS: 1.14
   response: 7E8046210B039
 - expected_values:

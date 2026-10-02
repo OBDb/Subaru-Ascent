@@ -7,8 +7,8 @@ test_cases:
     SUBARU_IDLE_MAF: 7.16
   response: 7E80562128902CC
 - expected_values:
-    SUBARU_IDLE_MAF: 7.86
-  response: '7E8056212890312'
+    SUBARU_IDLE_MAF: 7.8
+  response: 7E805621289030C
 - expected_values:
-    SUBARU_IDLE_MAF: 10.99
-  response: 7E805621289044B
+    SUBARU_IDLE_MAF: 10.4
+  response: '7E8056212890410'
