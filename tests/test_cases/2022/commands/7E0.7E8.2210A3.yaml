@@ -4,11 +4,17 @@ test_cases:
     SUBARU_FUEL_INJ_1_WIDTH: 1.024
   response: 7E8046210A304
 - expected_values:
+    SUBARU_FUEL_INJ_1_WIDTH: 1.28
+  response: 7E8046210A305
+- expected_values:
     SUBARU_FUEL_INJ_1_WIDTH: 1.536
   response: 7E8046210A306
 - expected_values:
     SUBARU_FUEL_INJ_1_WIDTH: 1.792
   response: 7E8046210A307
+- expected_values:
+    SUBARU_FUEL_INJ_1_WIDTH: 2.048
+  response: 7E8046210A308
 - expected_values:
     SUBARU_FUEL_INJ_1_WIDTH: 2.304
   response: 7E8046210A309
