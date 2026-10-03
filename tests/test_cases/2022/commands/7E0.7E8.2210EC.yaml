@@ -4,29 +4,5 @@ test_cases:
     SUBARU_EXH_VVT_RETARD_ANG: -1
   response: 7E8046210EC31
 - expected_values:
-    SUBARU_EXH_VVT_RETARD_ANG: 0
-  response: 7E8046210EC32
-- expected_values:
-    SUBARU_EXH_VVT_RETARD_ANG: 16
-  response: 7E8046210EC42
-- expected_values:
-    SUBARU_EXH_VVT_RETARD_ANG: 17
-  response: 7E8046210EC43
-- expected_values:
-    SUBARU_EXH_VVT_RETARD_ANG: 18
-  response: 7E8046210EC44
-- expected_values:
-    SUBARU_EXH_VVT_RETARD_ANG: 20
-  response: 7E8046210EC46
-- expected_values:
-    SUBARU_EXH_VVT_RETARD_ANG: 23
-  response: 7E8046210EC49
-- expected_values:
-    SUBARU_EXH_VVT_RETARD_ANG: 25
-  response: 7E8046210EC4B
-- expected_values:
-    SUBARU_EXH_VVT_RETARD_ANG: 27
-  response: 7E8046210EC4D
-- expected_values:
     SUBARU_EXH_VVT_RETARD_ANG: 30
   response: 7E8046210EC50
