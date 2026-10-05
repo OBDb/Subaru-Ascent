@@ -4,6 +4,9 @@ test_cases:
     SUBARU_PRIMARY_BOOST_CTRL_7E0: 0
   response: 7E8046210AC00
 - expected_values:
+    SUBARU_PRIMARY_BOOST_CTRL_7E0: 7.84314
+  response: 7E8046210AC14
+- expected_values:
     SUBARU_PRIMARY_BOOST_CTRL_7E0: 10.19608
   response: 7E8046210AC1A
 - expected_values:
