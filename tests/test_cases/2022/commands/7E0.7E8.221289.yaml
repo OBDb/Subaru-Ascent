@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.221289
 test_cases:
 - expected_values:
-    SUBARU_IDLE_MAF: 6.47
-  response: '7E8056212890287'
+    SUBARU_IDLE_MAF: 6.32
+  response: '7E8056212890278'
 - expected_values:
     SUBARU_IDLE_MAF: 7.67
   response: 7E80562128902FF

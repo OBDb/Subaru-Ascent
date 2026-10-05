@@ -4,5 +4,5 @@ test_cases:
     SUBARU_EXH_VVT_RETARD_TGT: 0
   response: '7E80462129132'
 - expected_values:
-    SUBARU_EXH_VVT_RETARD_TGT: 39
-  response: '7E80462129159'
+    SUBARU_EXH_VVT_RETARD_TGT: 45
+  response: 7E8046212915F
