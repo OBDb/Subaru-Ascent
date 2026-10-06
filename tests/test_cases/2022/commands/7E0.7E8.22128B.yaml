@@ -10,6 +10,9 @@ test_cases:
     SUBARU_IDLE_SPD_CTRL: 0.16
   response: 7E80562128B7540
 - expected_values:
+    SUBARU_IDLE_SPD_CTRL: 0.24
+  response: 7E80562128B7548
+- expected_values:
     SUBARU_IDLE_SPD_CTRL: 0.4
   response: 7E80562128B7558
 - expected_values:
