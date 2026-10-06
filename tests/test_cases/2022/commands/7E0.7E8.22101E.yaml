@@ -25,3 +25,8 @@ test_cases:
   response: |-
     7E8100962101E163700
     7E82100063000000000
+- expected_values:
+    SUBARU_TRIP_CNT: 5688
+  response: |-
+    7E8100962101E163800
+    7E82100099300000000
