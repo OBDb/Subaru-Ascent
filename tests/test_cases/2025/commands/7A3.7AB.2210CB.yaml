@@ -1,23 +1,23 @@
 command_id: 7A3.7AB.2210CB
 test_cases:
 - expected_values:
-    SUBARU_TURBINE_SPEED: 736
+    ASCENT_TURBINE_SPEED: 736
   response: 7AB046210CB17
 - expected_values:
-    SUBARU_TURBINE_SPEED: 768
+    ASCENT_TURBINE_SPEED: 768
   response: 7AB046210CB18
 - expected_values:
-    SUBARU_TURBINE_SPEED: 864
+    ASCENT_TURBINE_SPEED: 864
   response: 7AB046210CB1B
 - expected_values:
-    SUBARU_TURBINE_SPEED: 896
+    ASCENT_TURBINE_SPEED: 896
   response: 7AB046210CB1C
 - expected_values:
-    SUBARU_TURBINE_SPEED: 928
+    ASCENT_TURBINE_SPEED: 928
   response: 7AB046210CB1D
 - expected_values:
-    SUBARU_TURBINE_SPEED: 992
+    ASCENT_TURBINE_SPEED: 992
   response: 7AB046210CB1F
 - expected_values:
-    SUBARU_TURBINE_SPEED: 1568
+    ASCENT_TURBINE_SPEED: 1568
   response: 7AB046210CB31

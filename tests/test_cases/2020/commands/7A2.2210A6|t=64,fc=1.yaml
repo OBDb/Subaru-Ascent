@@ -1,0 +1,17 @@
+command_id: 7A2.2210A6|t=64,fc=1
+test_cases:
+- expected_values:
+    ASCENT_ACC_POS: 0
+  response: 7E8046210A600
+- expected_values:
+    ASCENT_ACC_POS: 18.82353
+  response: 7E8046210A630
+- expected_values:
+    ASCENT_ACC_POS: 25.09804
+  response: 7E8046210A640
+- expected_values:
+    ASCENT_ACC_POS: 33.72549
+  response: 7E8046210A656
+- expected_values:
+    ASCENT_ACC_POS: 40.78431
+  response: 7E8046210A668

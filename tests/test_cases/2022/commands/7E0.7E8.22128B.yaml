@@ -1,20 +1,20 @@
 command_id: 7E0.7E8.22128B
 test_cases:
 - expected_values:
-    SUBARU_IDLE_SPD_CTRL: 0
+    ASCENT_IDLE_SPD_CTRL: 0
   response: 7E80562128B7530
 - expected_values:
-    SUBARU_IDLE_SPD_CTRL: 0.12
+    ASCENT_IDLE_SPD_CTRL: 0.12
   response: 7E80562128B753C
 - expected_values:
-    SUBARU_IDLE_SPD_CTRL: 0.16
+    ASCENT_IDLE_SPD_CTRL: 0.16
   response: 7E80562128B7540
 - expected_values:
-    SUBARU_IDLE_SPD_CTRL: 0.24
+    ASCENT_IDLE_SPD_CTRL: 0.24
   response: 7E80562128B7548
 - expected_values:
-    SUBARU_IDLE_SPD_CTRL: 0.4
+    ASCENT_IDLE_SPD_CTRL: 0.4
   response: 7E80562128B7558
 - expected_values:
-    SUBARU_IDLE_SPD_CTRL: 0.48
+    ASCENT_IDLE_SPD_CTRL: 0.48
   response: 7E80562128B7560

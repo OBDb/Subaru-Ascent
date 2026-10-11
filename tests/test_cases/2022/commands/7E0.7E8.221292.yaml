@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.221292
 test_cases:
 - expected_values:
-    SUBARU_EXH_VVT_RETARD_TGT_ANG: 0
+    ASCENT_EXH_VVT_RETARD_TGT_ANG: 0
   response: '7E80462129232'
 - expected_values:
-    SUBARU_EXH_VVT_RETARD_TGT_ANG: 39
+    ASCENT_EXH_VVT_RETARD_TGT_ANG: 39
   response: '7E80462129259'

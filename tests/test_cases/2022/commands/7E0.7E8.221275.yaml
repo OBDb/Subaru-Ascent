@@ -1,17 +1,17 @@
 command_id: 7E0.7E8.221275
 test_cases:
 - expected_values:
-    SUBARU_THROTTLE_MOTOR_V: 13.12
+    ASCENT_THROTTLE_MOTOR_V: 13.12
   response: 7E804621275A4
 - expected_values:
-    SUBARU_THROTTLE_MOTOR_V: 13.6
+    ASCENT_THROTTLE_MOTOR_V: 13.6
   response: 7E804621275AA
 - expected_values:
-    SUBARU_THROTTLE_MOTOR_V: 13.76
+    ASCENT_THROTTLE_MOTOR_V: 13.76
   response: 7E804621275AC
 - expected_values:
-    SUBARU_THROTTLE_MOTOR_V: 13.84
+    ASCENT_THROTTLE_MOTOR_V: 13.84
   response: 7E804621275AD
 - expected_values:
-    SUBARU_THROTTLE_MOTOR_V: 13.92
+    ASCENT_THROTTLE_MOTOR_V: 13.92
   response: 7E804621275AE
