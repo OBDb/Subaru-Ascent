@@ -1,14 +1,20 @@
 command_id: 753.75B.221022|t=64,fc=1
 test_cases:
 - expected_values:
-    SUBARU_TP_FL: null
-    SUBARU_TP_FR: null
-    SUBARU_TP_RL: null
-    SUBARU_TP_RR: null
+    ASCENT_TP_FL: null
+    ASCENT_TP_FR: null
+    ASCENT_TP_RL: null
+    ASCENT_TP_RR: null
   response: 75B0762102200000000
 - expected_values:
-    SUBARU_TP_FL: 40.6
-    SUBARU_TP_FR: 40.6
-    SUBARU_TP_RL: 41.4
-    SUBARU_TP_RR: 41.6
+    ASCENT_TP_FL: 30.4
+    ASCENT_TP_FR: 30.8
+    ASCENT_TP_RL: 32.2
+    ASCENT_TP_RR: 31.6
+  response: 75B07621022A19E9A98
+- expected_values:
+    ASCENT_TP_FL: 40.6
+    ASCENT_TP_FR: 40.6
+    ASCENT_TP_RL: 41.4
+    ASCENT_TP_RR: 41.6
   response: 75B07621022CFD0CBCB

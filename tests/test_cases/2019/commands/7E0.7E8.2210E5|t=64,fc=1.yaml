@@ -1,17 +1,20 @@
 command_id: 7E0.7E8.2210E5|t=64,fc=1
 test_cases:
 - expected_values:
-    SUBARU_ODO: 66328
+    ASCENT_ODO: 66328
   response: '7E8 05 62 10 E5 81 8C '
 - expected_values:
-    SUBARU_ODO: 66330
+    ASCENT_ODO: 66330
   response: 7E8056210E5818D
 - expected_values:
-    SUBARU_ODO: 95742
+    ASCENT_ODO: 95742
   response: 7E8056210E5BAFF
 - expected_values:
-    SUBARU_ODO: 95744
+    ASCENT_ODO: 95744
   response: 7E8056210E5BB00
 - expected_values:
-    SUBARU_ODO: null
+    ASCENT_ODO: 105540
+  response: 7E8056210E5CE22
+- expected_values:
+    ASCENT_ODO: null
   response: 7E8056210E5FFFF

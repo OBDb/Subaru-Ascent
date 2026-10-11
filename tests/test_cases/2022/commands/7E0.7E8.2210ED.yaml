@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.2210ED
 test_cases:
 - expected_values:
-    SUBARU_EXH_VVT_RETARD_ANG_LEFT: -1
+    ASCENT_EXH_VVT_RETARD_ANG_LEFT: -1
   response: 7E8046210ED31
 - expected_values:
-    SUBARU_EXH_VVT_RETARD_ANG_LEFT: 39
+    ASCENT_EXH_VVT_RETARD_ANG_LEFT: 39
   response: 7E8046210ED59

@@ -1,11 +1,11 @@
 command_id: 7A2.7AA.221315
 test_cases:
 - expected_values:
-    SUBARU_MONITOR_2: 804
+    ASCENT_MONITOR_2: 804
   response: 7AA056213150C90
 - expected_values:
-    SUBARU_MONITOR_2: 946.5
+    ASCENT_MONITOR_2: 946.5
   response: 7AA056213150ECA
 - expected_values:
-    SUBARU_MONITOR_2: 1611.5
+    ASCENT_MONITOR_2: 1611.5
   response: 7AA05621315192E

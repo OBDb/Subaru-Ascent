@@ -1,0 +1,11 @@
+command_id: 7A2.7AA.2212ED|t=64,fc=1
+test_cases:
+- expected_values:
+    ASCENT_MAF_AVG: 0
+  response: 7AA056212ED0000
+- expected_values:
+    ASCENT_MAF_AVG: 5.11
+  response: 7AA056212ED01FF
+- expected_values:
+    ASCENT_MAF_AVG: 204.89
+  response: 7AA056212ED5009
