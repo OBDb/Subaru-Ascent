@@ -4,5 +4,5 @@ test_cases:
     ASCENT_INT_VVT_ADVANCE_TGT: -24
   response: 7E80462128F1A
 - expected_values:
-    ASCENT_INT_VVT_ADVANCE_TGT: 19
-  response: 7E80462128F45
+    ASCENT_INT_VVT_ADVANCE_TGT: 20
+  response: 7E80462128F46

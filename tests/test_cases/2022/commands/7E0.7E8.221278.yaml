@@ -4,5 +4,5 @@ test_cases:
     ASCENT_SUB_ACCEL_SENS: 0.64
   response: '7E80462127820'
 - expected_values:
-    ASCENT_SUB_ACCEL_SENS: 1.9
-  response: 7E8046212785F
+    ASCENT_SUB_ACCEL_SENS: 2.96
+  response: '7E80462127894'

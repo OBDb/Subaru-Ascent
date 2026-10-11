@@ -10,5 +10,8 @@ test_cases:
     ASCENT_PURGE_DENSITY_LEARN: 1.55294
   response: '7E80462129582'
 - expected_values:
+    ASCENT_PURGE_DENSITY_LEARN: 3.11529
+  response: '7E80462129584'
+- expected_values:
     ASCENT_PURGE_DENSITY_LEARN: 8.58353
   response: 7E8046212958B
