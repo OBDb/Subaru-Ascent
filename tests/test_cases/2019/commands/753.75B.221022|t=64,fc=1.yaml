@@ -7,6 +7,12 @@ test_cases:
     ASCENT_TP_RR: null
   response: 75B0762102200000000
 - expected_values:
+    ASCENT_TP_FL: 32.6
+    ASCENT_TP_FR: 32
+    ASCENT_TP_RL: 32
+    ASCENT_TP_RR: 32.2
+  response: 75B07621022A0A1A0A3
+- expected_values:
     ASCENT_TP_FL: 30.4
     ASCENT_TP_FR: 30.8
     ASCENT_TP_RL: 32.2

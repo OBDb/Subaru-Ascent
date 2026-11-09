@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221275
+test_cases:
+- expected_values:
+    ASCENT_THROTTLE_MOTOR_V: 13.6
+  response: 7E804621275AA
+- expected_values:
+    ASCENT_THROTTLE_MOTOR_V: 13.76
+  response: 7E804621275AC
+- expected_values:
+    ASCENT_THROTTLE_MOTOR_V: 13.84
+  response: 7E804621275AD

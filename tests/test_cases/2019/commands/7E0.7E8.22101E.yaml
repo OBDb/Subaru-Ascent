@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.22101E
+test_cases:
+- expected_values:
+    ASCENT_TRIP_CNT: 11762
+  response: |-
+    7E8100962101E2DF200
+    7E82100026B00000000
+- expected_values:
+    ASCENT_TRIP_CNT: 11762
+  response: |-
+    7E8100962101E2DF200
+    7E82100163900000000
+- expected_values:
+    ASCENT_TRIP_CNT: 11762
+  response: |-
+    7E8100962101E2DF200
+    7E82100340D00000000

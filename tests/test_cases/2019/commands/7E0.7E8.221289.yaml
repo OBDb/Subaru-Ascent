@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.221289
+test_cases:
+- expected_values:
+    ASCENT_IDLE_MAF: 3.9
+  response: '7E8056212890186'
+- expected_values:
+    ASCENT_IDLE_MAF: 5.01
+  response: 7E80562128901F5
+- expected_values:
+    ASCENT_IDLE_MAF: 5.14
+  response: '7E8056212890202'
+- expected_values:
+    ASCENT_IDLE_MAF: 7.74
+  response: '7E8056212890306'

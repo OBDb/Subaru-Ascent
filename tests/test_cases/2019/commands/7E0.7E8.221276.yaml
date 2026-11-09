@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.221276
+test_cases:
+- expected_values:
+    ASCENT_SUB_THROTTLE_SENS: 0.66
+  response: '7E80462127621'
+- expected_values:
+    ASCENT_SUB_THROTTLE_SENS: 0.68
+  response: '7E80462127622'
+- expected_values:
+    ASCENT_SUB_THROTTLE_SENS: 0.7
+  response: '7E80462127623'
+- expected_values:
+    ASCENT_SUB_THROTTLE_SENS: 0.72
+  response: '7E80462127624'
+- expected_values:
+    ASCENT_SUB_THROTTLE_SENS: 0.74
+  response: '7E80462127625'
+- expected_values:
+    ASCENT_SUB_THROTTLE_SENS: 0.78
+  response: '7E80462127627'
+- expected_values:
+    ASCENT_SUB_THROTTLE_SENS: 0.94
+  response: 7E8046212762F
+- expected_values:
+    ASCENT_SUB_THROTTLE_SENS: 2.34
+  response: '7E80462127675'
