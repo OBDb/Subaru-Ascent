@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.22128C
+test_cases:
+- expected_values:
+    ASCENT_IDLE_AC_LOAD_CORR: 0
+  response: 7E80562128C0000
+- expected_values:
+    ASCENT_IDLE_AC_LOAD_CORR: 0
+  response: 7E80562128C002B
+- expected_values:
+    ASCENT_IDLE_AC_LOAD_CORR: 0
+  response: 7E80562128C002F
+- expected_values:
+    ASCENT_IDLE_AC_LOAD_CORR: 0
+  response: 7E80562128C0038
+- expected_values:
+    ASCENT_IDLE_AC_LOAD_CORR: 0
+  response: 7E80562128C003C
+- expected_values:
+    ASCENT_IDLE_AC_LOAD_CORR: 0
+  response: 7E80562128C003D
+- expected_values:
+    ASCENT_IDLE_AC_LOAD_CORR: 0
+  response: 7E80562128C004F
+- expected_values:
+    ASCENT_IDLE_AC_LOAD_CORR: 0
+  response: 7E80562128C0072
+- expected_values:
+    ASCENT_IDLE_AC_LOAD_CORR: 0
+  response: 7E80562128C00C9
+- expected_values:
+    ASCENT_IDLE_AC_LOAD_CORR: 0
+  response: 7E80562128C00CF

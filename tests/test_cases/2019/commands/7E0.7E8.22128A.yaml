@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22128A
+test_cases:
+- expected_values:
+    ASCENT_IDLE_MAF_FEEDBACK: -0.9
+  response: 7E80562128A74D6
+- expected_values:
+    ASCENT_IDLE_MAF_FEEDBACK: -0.58
+  response: 7E80562128A74F6
+- expected_values:
+    ASCENT_IDLE_MAF_FEEDBACK: -0.12
+  response: 7E80562128A7524
