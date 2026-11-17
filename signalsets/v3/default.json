@@ -509,11 +509,11 @@
   "signals": [
     {"id": "ASCENT_TUMBLE_GEN_VLV_POS_SENS", "path": "Engine", "fmt": { "len": 8, "max": 5.1, "div": 50, "unit": "volts" }, "name": "Tumble generator valve position sensor left"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "tmo": "64", "fcm1": true, "cmd": {"22": "10E5"}, "freq": 15, "dbgfilter": { "from": 2023 },
+{ "hdr": "7E0", "rax": "7E8", "tmo": "64", "fcm1": true, "cmd": {"22": "10E5"}, "freq": 15, "dbgfilter": { "years": [2020], "from": 2023 },
   "signals": [
     {"id": "ASCENT_ODO", "path": "Trips", "fmt": { "len": 16, "max": 131070, "mul": 2, "nullmax": 131070, "unit": "kilometers" }, "name": "Odometer", "suggestedMetric": "odometer"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "10E7"}, "freq": 1, "dbgfilter": { "from": 2023 },
+{ "hdr": "7E0", "rax": "7E8", "dbg": true, "cmd": {"22": "10E7"}, "freq": 1,
   "signals": [
     {"id": "ASCENT_EOT_V2", "path": "Engine", "fmt": { "len": 8, "max": 215, "min": -40, "add": -40, "nullmin": -40, "unit": "celsius" }, "name": "Engine oil temperature"}
   ]},
